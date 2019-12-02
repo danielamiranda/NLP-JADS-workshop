@@ -1,0 +1,10 @@
+# Don't track content of these folders
+
+.DS_Store
+*.pyc
+*.pdf
+*text_classifier
+/txt_sentoken_data
+/data/
+data/
+/.ipynb_checkpoints
